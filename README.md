@@ -56,7 +56,7 @@ A arquitetura será preparada para futura integração com a API de Assinatura E
 
 ### Backend
 
-- Java 21
+- Java 26
 - Spring Boot
 - Spring Web
 - Spring Data JPA
